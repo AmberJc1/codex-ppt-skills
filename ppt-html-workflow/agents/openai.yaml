@@ -1,0 +1,4 @@
+interface:
+  display_name: "逐页制作可编辑PPT"
+  short_description: "从报告大纲到HTML逐页制作与修改，最终导出SVG和原生可编辑PPT"
+  default_prompt: "使用 $ppt-html-workflow，根据我提供的资料和模板，先写逐页文字大纲，再制作HTML，逐页修改后合并导出SVG和可编辑PPT。"
